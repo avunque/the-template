@@ -11,8 +11,10 @@ Desafíos y oportunidades en la educación (a distancia):
 Tecnologías, innovación y tendencias.
 @snapend
 
-@box[text-orange span-80 fragment](Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
-  Chief Irrational Officer, netedu.info)
+@snap[north-east byline  text-white]
+Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
+</br>Chief Irrational Officer, netedu.info
+@snapend
 
 ---
 @title[Slide Markdown]
