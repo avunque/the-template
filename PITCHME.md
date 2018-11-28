@@ -1,10 +1,10 @@
 ---
 
-+++?image=img/santa0.gif
++++?image=https://66.media.tumblr.com/3e1eebae5b3a8fc4c0f9ec24c8167035/tumblr_nxt634tytr1qe0eclo3_r1_500.gif
 @title[CEDI I]
 
 @snap[west headline text-white span-70]
-GitPitch<br>Desafíos y oportunidades en la educación (a distancia):
+Desafíos y oportunidades en la educación (a distancia):
 @snapend
 
 @snap[south-west byline  text-white]
