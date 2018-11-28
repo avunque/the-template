@@ -15,6 +15,8 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+?image=img/postman.png&position=left&size=50% 100%
+
 @title[PREP]
 
 @snap[east split-screen-byline text-white]
@@ -23,9 +25,6 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 - Pueden usar su celular/laptop/whatever
 @snapend
 
-@snap[west split-screen-img]
-![POSTMAN](img/postman.png)
-@snapend
 
 @snap[south-west template-note text-gray]
 ???
