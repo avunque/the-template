@@ -38,7 +38,7 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 
 ---?image=img/lolcat.jpg&size=auto 80%&position=top&color=#CCDAE7
 @snap[south text-white span-100]
-@size[1.0em](hashtag #cedi18 en Twitter para preguntas, dudas, gatitos)
+@size[0.8em](hashtag #cedi18 en Twitter para preguntas, dudas, gatitos)
 @snapend
 
 @snap[south-west template-note text-white]
