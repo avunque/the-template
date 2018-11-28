@@ -14,14 +14,13 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 </br>Chief Irrational Officer, netedu.info
 @snapend
 
----
-+++?image=template/img/bg/black.jpg&position=right&size=50% 100%
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[PREP]
 
 @snap[east split-screen-byline text-white]
-# Educación superior
-# Formal (estructurada)
-# Pueden usar su celular/laptop/whatever
+-Educación superior
+-Formal (estructurada)
+-Pueden usar su celular/laptop/whatever
 @snapend
 
 @snap[west split-screen-img]
