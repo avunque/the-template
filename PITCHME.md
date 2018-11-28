@@ -1,5 +1,3 @@
----
-
 +++?image=https://66.media.tumblr.com/3e1eebae5b3a8fc4c0f9ec24c8167035/tumblr_nxt634tytr1qe0eclo3_r1_500.gif
 @title[CEDI I]
 
@@ -16,14 +14,13 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 </br>Chief Irrational Officer, netedu.info
 @snapend
 
----
 +++?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[PREP]
 
 @snap[east split-screen-byline text-white]
-#Educación superior
-#Formal (estructurada)
-#Pueden usar su celular/laptop/whatever
+# Educación superior
+# Formal (estructurada)
+# Pueden usar su celular/laptop/whatever
 @snapend
 
 @snap[west split-screen-img]
