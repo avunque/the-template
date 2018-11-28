@@ -42,7 +42,7 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 @snap[south-west template-note text-white]
-<br>Photo: STARIN AT U, by [Luca Vanzella](https://www.flickr.com/photos/vanz/). CC-Licensed BY-SA.
+</br> @size[0.3em](Photo: STARIN AT U, by [Luca Vanzella](https://www.flickr.com/photos/vanz/). CC-Licensed BY-SA.)
 @snapend
 
 ---
