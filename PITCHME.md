@@ -1,8 +1,7 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[CEDI I]
+---
 
-+++?image=img/santa.gif
-@title[GIF Background]
++++?image=img/santa0.gif
+@title[CEDI I]
 
 @snap[west headline text-white span-70]
 GitPitch<br>Desafíos y oportunidades en la educación (a distancia):
