@@ -33,7 +33,16 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 
 
 @snap[south-west template-note text-gray]
-???
+1er CEDI 
+@snapend
+
+---?image=img/lolcat.jpg&size=auto 50%&color=#CCDAE7
+@snap[south splitscreen text-white]
+hashtag #cedi18 en Twitter para preguntas/dudas/gatitos
+@snapend
+
+@snap[south-west template-note text-white]
+Photo: STARIN AT U, by [Luca Vanzella](https://www.flickr.com/photos/vanz/). CC-Licensed BY-SA.
 @snapend
 
 ---
