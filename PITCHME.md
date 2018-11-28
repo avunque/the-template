@@ -6,7 +6,7 @@ Desafíos y oportunidades en la educación (a distancia):
 @snapend
 
 @snap[south-west byline  text-white]
-</br>Tecnologías, innovación y tendencias.
+</br>@size[1.5em](Tecnologías, innovación y tendencias.)
 @snapend
 
 @snap[north-east byline  text-white]
@@ -23,12 +23,12 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 @snap[east split-screen-byline text-white]
-@size[2.0em](PREP)
-@ul
-- Educación superior
-- Formal (estructurada)
-- Pueden usar su celular/laptop/whatever
-@ulend
+@size[1.5em](PREP)
+@ol
+1. Educación superior
+1. Formal (estructurada)
+1. Pueden usar su celular/laptop/whatever
+@olend
 @snapend
 
 
