@@ -15,14 +15,19 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
-?image=img/postman.png&position=left&size=50% 100%
++++?image=img/postman.png&position=left&size=50% 100%
 
 @title[PREP]
+@snap[east headline text-white span-90]
+PREP
+@snapend
 
 @snap[east split-screen-byline text-white]
+@ul
 - Educación superior
 - Formal (estructurada)
 - Pueden usar su celular/laptop/whatever
+@ulend
 @snapend
 
 
