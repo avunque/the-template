@@ -17,6 +17,24 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 ---
+
+@title[PREP]
+
+@snap[east split-screen-byline text-white]
+Lorem ipsum sit dolor amet, consectetur elit.
+@snapend
+
+@snap[west split-screen-img]
+![DEVELOPER](template/img/developer.jpg)
+@snapend
+
+@snap[south-west template-note text-gray]
+Educación superior
+Formal (estructurada)
+Pueden usar su celular/laptop/whatever
+@snapend
+
+---
 @title[Slide Markdown]
 
 ### Each slide in this presentation is provided as a *template*.
