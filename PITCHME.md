@@ -36,9 +36,9 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 1er CEDI 
 @snapend
 
----?image=img/lolcat.jpg&size=auto 100%&position=top&color=#CCDAE7
+---?image=img/lolcat.jpg&size=auto 80%&position=top&color=#CCDAE7
 @snap[south splitscreen text-white]
-hashtag #cedi18 en Twitter para preguntas/dudas/gatitos
+@size[1.5em](hashtag #cedi18 en Twitter para preguntas/dudas/gatitos)
 @snapend
 
 @snap[south-west template-note text-white]
