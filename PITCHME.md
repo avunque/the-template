@@ -24,7 +24,7 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 @snapend
 
 @snap[west split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
+![POSTMAN](img/postman.png)
 @snapend
 
 @snap[south-west template-note text-gray]
