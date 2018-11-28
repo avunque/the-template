@@ -20,8 +20,10 @@ Antonio Vantaggiato, Catedrático, Universidad del Sagrado Corazón
 
 @title[PREP]
 
-@snap[east split-screen-byline text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
+@snap[east split-screen-byline text-black]
+Educación superior
+</br>Formal (estructurada)
+</br>Pueden usar su celular/laptop/whatever
 @snapend
 
 @snap[west split-screen-img]
@@ -29,9 +31,7 @@ Lorem ipsum sit dolor amet, consectetur elit.
 @snapend
 
 @snap[south-west template-note text-gray]
-Educación superior
-Formal (estructurada)
-Pueden usar su celular/laptop/whatever
+???
 @snapend
 
 ---
